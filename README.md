@@ -1,5 +1,6 @@
 # Landmark Classification and tagging for Social Media
-**Project Overview**
+
+###Project Overview
 
 In this project, I applied the skills I acquired in the Convolutional Neural Network (CNN) course to build a landmark classifier.
 
